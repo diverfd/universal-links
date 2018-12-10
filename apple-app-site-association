@@ -3,8 +3,8 @@
 		"apps": [],
 		"details": [
 			{
-				"appID": "KFCNEC27GU.com.razeware.UniveralLinksTutorial",
-				"paths": [ "*"]
+				"appID": "P2V5UQCVZ2.com.cirrent",
+				"paths": [ "/?*"]
 			}
 		]
 	}
