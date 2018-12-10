@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "P2V5UQCVZ2.com.cirrent",
-				"paths": [ "/?*"]
+				"paths": [ "*"]
 			}
 		]
 	}
